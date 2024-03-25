@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi CV</title>
+</head>
+<body>
+    <h1>ALEX PATZAN</h1>
+    <p>Educación: TECNICO EN DESAROLLO DE SOFTWARE</p>
+    <p>Experiencia Laboral: Tecnico de laboratorio</p>
+    <p>Habilidades: HTML, CSS, JavaScript, etc veo equipos de inmunologia,
+     quimica, hematoligia, biologia molecular de los hospitales y laboratorios</p>
+    <p>PASA TIEMPOS</p>
+    <ul>
+        <li>jugar pelota</li>
+        <li>viajar</li>
+        <li>caminar con mi perro</li>
+    </ul>
+</body>
+</html>
